@@ -1,0 +1,16 @@
+#editor config
+.vscode
+
+#vim edit files
+*swp
+*~
+
+#build files
+*.o
+
+#executable
+exec
+
+#build debug files
+
+build/*
